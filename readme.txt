@@ -3,7 +3,7 @@
 ##        Mod title:  Collapse categories
 ##
 ##      Mod version:  1.5
-##  Works on FluxBB:  1.4.5, 1.4.4
+##  Works on FluxBB:  1.4.7, 1.4.6, 1.4.5, 1.4.4
 ##     Release date:  2011-04-16
 ##      Review date:  YYYY-MM-DD (Leave unedited)
 ##           Author:  Daris (daris91@gmail.com)
